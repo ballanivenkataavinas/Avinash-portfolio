@@ -1,5 +1,4 @@
 Avinash Portfolio – Cybersecurity & Secure Backend Projects
-Overview
 
 This is a professional cybersecurity portfolio showcasing hands-on experience in Secure Backend Development, SOC Analysis, and Application Security.
 
